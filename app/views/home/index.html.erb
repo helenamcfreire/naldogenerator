@@ -1,0 +1,32 @@
+<div class="principal">
+
+      <div class="poesia">
+        <%= @estrofe1 %><br/>
+        <%= @estrofe2 %>
+        <%= @estrofe3 %><br/>
+        <%= @estrofe4 %>
+        <%= @estrofe5 %>
+        <%= @estrofe6 %><br/>
+        <%= @estrofe7 %>
+      </div>
+
+</div>
+
+<div class="buttons">
+  <%= form_for :request, :url => {:controller => 'home', :action => 'index'} do |form| %>
+    <%= form.submit 'GERAR REFRÃO', :class => 'gerarRefrao' %>
+    <input type="button" value="COPIAR (CTRL+C)" class="copiar" />
+  <% end %>
+</div>
+
+<script>
+
+    $(".copiar").zclip({
+        path: "/assets/ZeroClipboard.swf",
+        copy: function(){
+            return $('.poesia').text();
+        }
+    });
+
+
+</script>

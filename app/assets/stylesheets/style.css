@@ -1,0 +1,49 @@
+body {
+    background-color: #000000;
+    font-family: Verdana, sans-serif;
+}
+
+.principal {
+    width: 637px;
+    height: 518px;
+    margin: auto;
+    background: url("/assets/bg.png");
+    font-size: 14pt;
+    font-weight: bold;
+    color: #1D67A6;
+}
+
+.buttons {
+    width: 637px;
+    height: 518px;
+    margin: auto;
+}
+
+.poesia {
+    padding-top: 386px;
+    padding-left: 175px;
+}
+
+input {
+    height: 50px;
+    border: 0;
+    border-radius: 9px;
+    font: 13px/30px "Verdana";
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+    vertical-align: middle;
+    -webkit-transition: background 200ms linear;
+    -moz-transition: background 200ms linear;
+    -o-transition: background 200ms linear;
+    transition: background 200ms linear;
+}
+
+.gerarRefrao {
+    background: #08A45D;
+    margin-left: 105px;
+}
+
+.copiar {
+    background: #21708B;
+}
