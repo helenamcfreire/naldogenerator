@@ -15,7 +15,12 @@ body {
 
 .buttons {
     width: 637px;
-    height: 518px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.banners {
+    width: 637px;
     margin: auto;
 }
 
