@@ -52,3 +52,11 @@ input {
 .copiar {
     background: #21708B;
 }
+
+.fb-comments {
+    margin: auto;
+    width: 637px;
+    display: block!important;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
