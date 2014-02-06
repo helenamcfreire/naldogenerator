@@ -19,6 +19,15 @@ body {
     margin-bottom: 50px;
 }
 
+.buttons a {
+    display: block;
+}
+
+.main_buttons {
+    float: left;
+    margin-right: 15px;
+}
+
 .banners {
     width: 637px;
     margin: auto;
