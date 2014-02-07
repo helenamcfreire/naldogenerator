@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e23ae6d-b665-4815-9353-5ce200f48680" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/index.html.erb" afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/style.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/style.css" />
     </list>
     <ignored path="NaldoGenerator.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="3e23ae6d-b665-4815-9353-5ce200f48680" time="1387418867708" ignored="false" />
-    <file path="/Dummy.txt" changelist="3e23ae6d-b665-4815-9353-5ce200f48680" time="1391656538333" ignored="false" />
+    <file path="/Dummy.txt" changelist="3e23ae6d-b665-4815-9353-5ce200f48680" time="1391740859335" ignored="false" />
     <file path="/estrofe.rb" changelist="3e23ae6d-b665-4815-9353-5ce200f48680" time="1387419183489" ignored="false" />
     <file path="/20131219021246_create_estroves.rb" changelist="3e23ae6d-b665-4815-9353-5ce200f48680" time="1387498070138" ignored="false" />
     <file path="/home_controller.rb" changelist="3e23ae6d-b665-4815-9353-5ce200f48680" time="1387498119367" ignored="false" />
-    <file path="/index.html.erb" changelist="3e23ae6d-b665-4815-9353-5ce200f48680" time="1391659648175" ignored="false" />
+    <file path="/index.html.erb" changelist="3e23ae6d-b665-4815-9353-5ce200f48680" time="1391740962230" ignored="false" />
     <file path="/routes.rb" changelist="3e23ae6d-b665-4815-9353-5ce200f48680" time="1387420965810" ignored="false" />
     <file path="/a.dummy" changelist="3e23ae6d-b665-4815-9353-5ce200f48680" time="1391655352917" ignored="false" />
     <file path="/application.css" changelist="3e23ae6d-b665-4815-9353-5ce200f48680" time="1387421575818" ignored="false" />
@@ -83,8 +81,8 @@
         <option value="dbtable:/c83f863f/e85dd34c-75cd-4ecb-982b-b2a6a7b42d0d/almocinho.public.estroves" />
         <option value="db-console:/c83f863f/e85dd34c-75cd-4ecb-982b-b2a6a7b42d0d/" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
       </list>
     </option>
   </component>
@@ -226,9 +224,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="Ruby.ViewRefParam.DefaultExtension" value="html.erb" />
     <property name="dynamic.classpath" value="false" />
+    <property name="Ruby.ViewRefParam.DefaultExtension" value="html.erb" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -329,7 +327,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
       <JSRemoteDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSRemoteDebuggerConfigurationSettings>
       <method />
@@ -490,7 +488,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32826087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3275488" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22572039" sideWeight="0.6713666" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -643,13 +641,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="55" selection-start="1655" selection-end="1655" vertical-scroll-proportion="0.6542056">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="84" column="14" selection-start="1323" selection-end="1323" vertical-scroll-proportion="0.85682327">
@@ -660,6 +651,13 @@
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="97" selection-start="587" selection-end="587" vertical-scroll-proportion="0.23935558">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="84" selection-start="1872" selection-end="1872" vertical-scroll-proportion="0.7948718">
           <folding />
         </state>
       </provider>
