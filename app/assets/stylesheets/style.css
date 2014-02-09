@@ -6,7 +6,7 @@ body {
 }
 
 .principal {
-    width: 637px;
+    width: 800px;
     height: 518px;
     margin: auto;
     background: url("/assets/bg.png");
@@ -18,7 +18,8 @@ body {
 .buttons {
     width: 637px;
     margin: auto;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
+    margin-top: 20px;
 }
 
 .buttons a {
@@ -37,8 +38,8 @@ body {
 }
 
 .poesia {
-    padding-top: 386px;
-    padding-left: 175px;
+    padding-top: 390px;
+    text-align: center;
 }
 
 input {
@@ -69,7 +70,6 @@ input {
     margin: auto;
     width: 637px;
     display: block!important;
-    margin-top: 35px;
     margin-bottom: 20px;
 }
 
